@@ -1,0 +1,5 @@
+﻿  problem4.c
+c:\users\subal pant\documents\visual studio 2017\projects\lab2\problem4\problem4.c(42): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Problem4.vcxproj -> C:\Users\Subal Pant\Documents\Visual Studio 2017\Projects\Lab2\Debug\Problem4.exe
+  Problem4.vcxproj -> C:\Users\Subal Pant\Documents\Visual Studio 2017\Projects\Lab2\Debug\Problem4.pdb (Partial PDB)

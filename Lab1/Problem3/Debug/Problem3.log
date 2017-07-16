@@ -1,0 +1,7 @@
+﻿  problem3.c
+c:\users\subal pant\documents\visual studio 2017\projects\lab1\problem3\problem3.c(8): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+c:\users\subal pant\documents\visual studio 2017\projects\lab1\problem3\problem3.c(8): warning C4024: 'printf': different types for formal and actual parameter 1
+c:\users\subal pant\documents\visual studio 2017\projects\lab1\problem3\problem3.c(9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Problem3.vcxproj -> C:\Users\Subal Pant\Documents\Visual Studio 2017\Projects\Lab1\Debug\Problem3.exe
+  Problem3.vcxproj -> C:\Users\Subal Pant\Documents\Visual Studio 2017\Projects\Lab1\Debug\Problem3.pdb (Partial PDB)
