@@ -1,0 +1,8 @@
+﻿  problem3.c
+c:\users\subal pant\documents\github\c-projects-summer-2017\lab5\problem3\problem3.c(11): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\subal pant\documents\github\c-projects-summer-2017\lab5\problem3\problem3.c(19): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\subal pant\documents\github\c-projects-summer-2017\lab5\problem3\problem3.c(11): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\subal pant\documents\github\c-projects-summer-2017\lab5\problem3\problem3.c(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  Problem3.vcxproj -> C:\Users\Subal Pant\Documents\GitHub\C-Projects-Summer-2017\Lab5\Debug\Problem3.exe
+  Problem3.vcxproj -> C:\Users\Subal Pant\Documents\GitHub\C-Projects-Summer-2017\Lab5\Debug\Problem3.pdb (Partial PDB)
