@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(222): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(278): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\subal pant\documents\github\c-projects-summer-2017\cardproject\cardproject\main.c(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  CardProject.vcxproj -> C:\Users\Subal Pant\Documents\GitHub\C-Projects-Summer-2017\CardProject\Debug\CardProject.exe
+  CardProject.vcxproj -> C:\Users\Subal Pant\Documents\GitHub\C-Projects-Summer-2017\CardProject\Debug\CardProject.pdb (Partial PDB)
